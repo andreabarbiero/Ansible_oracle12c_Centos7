@@ -226,7 +226,7 @@
         cat <<EOT >> /home/oracle/.bash_profile
         export ORACLE_BASE=/u01/app/oracle
         export ORACLE_HOME=/u01/app/oracle/product/12.2.0/dbhome_1
-        export ORACLE_SID=ORCL
+        export ORACLE_SID="{{ SID }}"
         export ORATAB=/etc/oratab
         export NLS_LANG=AMERICAN_AMERICA.WE8ISO8859P1
         export TZ=Europe/Rome
