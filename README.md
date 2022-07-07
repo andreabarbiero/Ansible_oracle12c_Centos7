@@ -14,3 +14,4 @@ Installazione:
  
  Questo permetterà ad Ansible di effettuare una wget per scaricare il file di installazione.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WEM5LeSf_3s/0.jpg)](https://www.youtube.com/watch?v=WEM5LeSf_3s)
