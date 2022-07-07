@@ -161,7 +161,7 @@
     
     - name: Unarchive a file that needs to be downloaded (added in 2.0)
       ansible.builtin.unarchive:
-        src: "http://{{ ip_address }}:8000/linuxx64_12201_database.zip"
+        src: "http://{{ ip_address_http_server }}:8000/linuxx64_12201_database.zip"
         dest: /home/oracle
         remote_src: yes
 
