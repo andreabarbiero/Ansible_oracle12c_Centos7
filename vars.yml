@@ -1,4 +1,4 @@
-ip_address: '192.168.1.13'
+ip_address_http_server: '192.168.1.13'
 ORACLE_PASS: 'oracle'
 SID: 'DB12C'
 SYS_PASS: 'oracle123'
