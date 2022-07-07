@@ -33,7 +33,7 @@
         immediate: yes
         state: enabled
 
-    - name: Salvo la regola su iptables
+    - name: Effettuo il reload completo del firewall
       ansible.builtin.shell: firewall-cmd --complete-reload
 
     - name: Salvo la regola su iptables
